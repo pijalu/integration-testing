@@ -1,3 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 meeting-web/app/bower_components
-meeting-web/node_modules
+meeting-web/node_modules.project
+.settings
+.classpath
+.project
+node_modules
